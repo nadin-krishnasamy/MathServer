@@ -145,7 +145,8 @@ urlpatterns = [
 '''
 
 ## SERVER SIDE PROCESSING:
-![Uploading image.png…]()
+<img width="1070" height="550" alt="Screenshot 2025-10-15 112435" src="https://github.com/user-attachments/assets/6a4503bc-e2fa-46cd-af42-ce7b27f046a6" />
+
 
 
 ## HOMEPAGE:
